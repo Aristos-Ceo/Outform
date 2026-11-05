@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Courtline 84",
+    "brand": "Nike",
+    "category": "Everyday",
+    "price": 120,
+    "img": "catalog-01.webp",
+    "badge": "",
+    "color": "White / Chalk"
+  },
+  {
+    "id": 2,
+    "name": "Voltage High",
+    "brand": "Jordan",
+    "category": "Limited",
+    "price": 135,
+    "img": "catalog-02.webp",
+    "badge": "LIMITED",
+    "color": "Black / Volt Orange"
+  },
+  {
+    "id": 3,
+    "name": "Dune Runner 06",
+    "brand": "New Balance",
+    "category": "Retro",
+    "price": 148,
+    "img": "catalog-03.webp",
+    "badge": "NEW",
+    "color": "Oat / Stone"
+  },
+  {
+    "id": 4,
+    "name": "Cobalt Terrain",
+    "brand": "Salomon",
+    "category": "Performance",
+    "price": 155,
+    "img": "catalog-04.webp",
+    "badge": "",
+    "color": "Cobalt / Ink"
+  },
+  {
+    "id": 5,
+    "name": "Pine Street 72",
+    "brand": "Vans",
+    "category": "Everyday",
+    "price": 165,
+    "img": "catalog-05.webp",
+    "badge": "CORE",
+    "color": "Forest / Bone"
+  },
+  {
+    "id": 6,
+    "name": "Burgundy Varsity",
+    "brand": "Adidas",
+    "category": "Limited",
+    "price": 175,
+    "img": "catalog-06.webp",
+    "badge": "LIMITED",
+    "color": "Burgundy / Cream"
+  },
+  {
+    "id": 7,
+    "name": "Silver District",
+    "brand": "Asics",
+    "category": "Performance",
+    "price": 188,
+    "img": "catalog-07.webp",
+    "badge": "",
+    "color": "Silver / Graphite"
+  },
+  {
+    "id": 8,
+    "name": "Sandstone Pace",
+    "brand": "Puma",
+    "category": "Everyday",
+    "price": 205,
+    "img": "catalog-08.webp",
+    "badge": "TECH",
+    "color": "Sand / Ecru"
+  },
+  {
+    "id": 9,
+    "name": "Obsidian Motion",
+    "brand": "Reebok",
+    "category": "Performance",
+    "price": 218,
+    "img": "catalog-09.webp",
+    "badge": "CORE",
+    "color": "Triple Black"
+  },
+  {
+    "id": 10,
+    "name": "Lilac Court",
+    "brand": "Converse",
+    "category": "Retro",
+    "price": 120,
+    "img": "catalog-10.webp",
+    "badge": "",
+    "color": "Lilac / Cloud"
+  },
+  {
+    "id": 11,
+    "name": "Redline Canvas",
+    "brand": "Hoka",
+    "category": "Limited",
+    "price": 135,
+    "img": "catalog-11.webp",
+    "badge": "NEW",
+    "color": "Red / Chalk"
+  },
+  {
+    "id": 12,
+    "name": "Olive Trek",
+    "brand": "Nike",
+    "category": "Performance",
+    "price": 148,
+    "img": "catalog-12.webp",
+    "badge": "TECH",
+    "color": "Olive / Moss"
+  },
+  {
+    "id": 13,
+    "name": "Butter Terrace",
+    "brand": "Nike",
+    "category": "Retro",
+    "price": 155,
+    "img": "catalog-13.webp",
+    "badge": "",
+    "color": "Butter / Gum"
+  },
+  {
+    "id": 14,
+    "name": "Neon Pulse",
+    "brand": "Jordan",
+    "category": "Performance",
+    "price": 165,
+    "img": "catalog-14.webp",
+    "badge": "LIMITED",
+    "color": "Charcoal / Lime"
+  },
+  {
+    "id": 15,
+    "name": "Rose Suede",
+    "brand": "New Balance",
+    "category": "Everyday",
+    "price": 175,
+    "img": "catalog-15.webp",
+    "badge": "NEW",
+    "color": "Blush / Grey"
+  },
+  {
+    "id": 16,
+    "name": "Mono Skate",
+    "brand": "Salomon",
+    "category": "Everyday",
+    "price": 188,
+    "img": "catalog-16.webp",
+    "badge": "",
+    "color": "Black / White"
+  },
+  {
+    "id": 17,
+    "name": "Tidebreaker Trail",
+    "brand": "Vans",
+    "category": "Performance",
+    "price": 205,
+    "img": "catalog-17.webp",
+    "badge": "CORE",
+    "color": "Teal / Ember"
+  },
+  {
+    "id": 18,
+    "name": "Blue Note Court",
+    "brand": "Adidas",
+    "category": "Retro",
+    "price": 218,
+    "img": "catalog-18.webp",
+    "badge": "LIMITED",
+    "color": "Blue / Ivory"
+  },
+  {
+    "id": 19,
+    "name": "Scarlet Low",
+    "brand": "Asics",
+    "category": "Limited",
+    "price": 120,
+    "img": "catalog-19.webp",
+    "badge": "",
+    "color": "Signal Red"
+  },
+  {
+    "id": 20,
+    "name": "Violet Aero",
+    "brand": "Puma",
+    "category": "Performance",
+    "price": 135,
+    "img": "catalog-20.webp",
+    "badge": "TECH",
+    "color": "Violet / Silver"
+  },
+  {
+    "id": 21,
+    "name": "Amber Flight",
+    "brand": "Reebok",
+    "category": "Limited",
+    "price": 148,
+    "img": "catalog-21.webp",
+    "badge": "CORE",
+    "color": "Amber / Coal"
+  },
+  {
+    "id": 22,
+    "name": "Chrome Runner",
+    "brand": "Converse",
+    "category": "Performance",
+    "price": 155,
+    "img": "catalog-22.webp",
+    "badge": "",
+    "color": "Chrome / Ice"
+  },
+  {
+    "id": 23,
+    "name": "Cocoa Club",
+    "brand": "Hoka",
+    "category": "Retro",
+    "price": 165,
+    "img": "catalog-23.webp",
+    "badge": "NEW",
+    "color": "Cocoa / Sand"
+  },
+  {
+    "id": 24,
+    "name": "Mint Knit",
+    "brand": "Nike",
+    "category": "Performance",
+    "price": 175,
+    "img": "catalog-24.webp",
+    "badge": "TECH",
+    "color": "Mint / Cream"
+  },
+  {
+    "id": 25,
+    "name": "Pink Horizon",
+    "brand": "Nike",
+    "category": "Everyday",
+    "price": 188,
+    "img": "catalog-25.webp",
+    "badge": "",
+    "color": "Rose / Gum"
+  },
+  {
+    "id": 26,
+    "name": "Midnight Court",
+    "brand": "Jordan",
+    "category": "Everyday",
+    "price": 205,
+    "img": "catalog-26.webp",
+    "badge": "LIMITED",
+    "color": "Midnight / Bone"
+  },
+  {
+    "id": 27,
+    "name": "Citrus Sprint",
+    "brand": "New Balance",
+    "category": "Performance",
+    "price": 218,
+    "img": "catalog-27.webp",
+    "badge": "NEW",
+    "color": "Citrus / White"
+  },
+  {
+    "id": 28,
+    "name": "Forest Track",
+    "brand": "Salomon",
+    "category": "Retro",
+    "price": 120,
+    "img": "catalog-28.webp",
+    "badge": "",
+    "color": "Pine / Stone"
+  },
+  {
+    "id": 29,
+    "name": "Clay Classic",
+    "brand": "Vans",
+    "category": "Everyday",
+    "price": 135,
+    "img": "catalog-29.webp",
+    "badge": "CORE",
+    "color": "Clay / Cream"
+  },
+  {
+    "id": 30,
+    "name": "Ultramarine Pace",
+    "brand": "Adidas",
+    "category": "Performance",
+    "price": 148,
+    "img": "catalog-30.webp",
+    "badge": "LIMITED",
+    "color": "Ultramarine / Sky"
+  },
+  {
+    "id": 31,
+    "name": "Crimson Court",
+    "brand": "Asics",
+    "category": "Limited",
+    "price": 155,
+    "img": "catalog-31.webp",
+    "badge": "",
+    "color": "Crimson / Bone"
+  },
+  {
+    "id": 32,
+    "name": "Glacier Runner",
+    "brand": "Puma",
+    "category": "Performance",
+    "price": 165,
+    "img": "catalog-32.webp",
+    "badge": "TECH",
+    "color": "Glacier / Blue"
+  },
+  {
+    "id": 33,
+    "name": "Urban Blaze",
+    "brand": "Jordan",
+    "category": "Limited",
+    "price": 175,
+    "img": "catalog-33.webp",
+    "badge": "DROP 001",
+    "color": "Black / Orange"
+  },
+  {
+    "id": 34,
+    "name": "Desert Form",
+    "brand": "Converse",
+    "category": "Retro",
+    "price": 188,
+    "img": "catalog-34.webp",
+    "badge": "",
+    "color": "Sand / Cream"
+  },
+  {
+    "id": 35,
+    "name": "Night Runner X",
+    "brand": "Hoka",
+    "category": "Performance",
+    "price": 205,
+    "img": "catalog-35.webp",
+    "badge": "NEW",
+    "color": "Blackout"
+  },
+  {
+    "id": 36,
+    "name": "Evergreen Court",
+    "brand": "Nike",
+    "category": "Everyday",
+    "price": 218,
+    "img": "catalog-36.webp",
+    "badge": "TECH",
+    "color": "Pine / Ivory"
+  }
+]
